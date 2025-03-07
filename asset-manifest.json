@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Sunil-Portfolio/static/css/main.d01d78ff.css",
+    "main.js": "/Sunil-Portfolio/static/js/main.c9d5d69f.js",
+    "static/js/488.3aa3b86d.chunk.js": "/Sunil-Portfolio/static/js/488.3aa3b86d.chunk.js",
+    "static/media/crop.png": "/Sunil-Portfolio/static/media/crop.4e9bcefdc5824078360a.png",
+    "static/media/hosp.png": "/Sunil-Portfolio/static/media/hosp.92b557d7abc202df4a12.png",
+    "static/media/img1.svg": "/Sunil-Portfolio/static/media/img1.255e0a44c93c10d76a134ef0d7b82a43.svg",
+    "static/media/projects.webp": "/Sunil-Portfolio/static/media/projects.6b3b3ca5aa93581e2b49.webp",
+    "static/media/globe.png": "/Sunil-Portfolio/static/media/globe.99b545999c9e6f73ebcd.png",
+    "static/media/rocket2_downward (1).png": "/Sunil-Portfolio/static/media/rocket2_downward (1).2d4b5068060fb319c159.png",
+    "static/media/PCCOER-210923110038 (1).jpg": "/Sunil-Portfolio/static/media/PCCOER-210923110038 (1).6ecf5ddb916cd779843a.jpg",
+    "static/media/trophy1.jpg": "/Sunil-Portfolio/static/media/trophy1.9360534d84bbb87553d5.jpg",
+    "static/media/experience.jpg": "/Sunil-Portfolio/static/media/experience.583969552591637667df.jpg",
+    "static/media/cv.jpg": "/Sunil-Portfolio/static/media/cv.9cad3e0bf5dc6f23546f.jpg",
+    "static/media/WhatsApp Image 2025-03-06 at 10.48.49_e8b82a93.jpg": "/Sunil-Portfolio/static/media/WhatsApp Image 2025-03-06 at 10.48.49_e8b82a93.fb32146fb21dfb152227.jpg",
+    "static/media/Group 8.png": "/Sunil-Portfolio/static/media/Group 8.58caa7622068f6ab3ddd.png",
+    "static/media/img2_me.jpg": "/Sunil-Portfolio/static/media/img2_me.308e432e2a86f7190d7e.jpg",
+    "static/media/jpg": "/Sunil-Portfolio/static/media/127defda93b52e32246d4f32feac33aa.4decc62bcb669ee64731.jpg",
+    "static/media/img1.jpeg": "/Sunil-Portfolio/static/media/img1.3e31ef808c5dd4ae0244.jpeg",
+    "static/media/dark_cube1.png": "/Sunil-Portfolio/static/media/dark_cube1.5b45b9b4cfc9c3f51c7b.png",
+    "static/media/python.png": "/Sunil-Portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/physics.png": "/Sunil-Portfolio/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/programing.png": "/Sunil-Portfolio/static/media/programing.10ccac0eb9dd930b6b6c.png",
+    "static/media/path1.png": "/Sunil-Portfolio/static/media/path1.3742683cb45d9a3d270f.png",
+    "static/media/java.png": "/Sunil-Portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/text.png": "/Sunil-Portfolio/static/media/text.57ac229d6c624bed3295.png",
+    "static/media/scikit-learn.png": "/Sunil-Portfolio/static/media/scikit-learn.6e8fb972f2cbb25af1f6.png",
+    "static/media/figma.png": "/Sunil-Portfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/html.png": "/Sunil-Portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/js.png": "/Sunil-Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/sql.png": "/Sunil-Portfolio/static/media/sql.c650f2a7a03d9ac41cda.png",
+    "index.html": "/Sunil-Portfolio/index.html",
+    "main.d01d78ff.css.map": "/Sunil-Portfolio/static/css/main.d01d78ff.css.map",
+    "main.c9d5d69f.js.map": "/Sunil-Portfolio/static/js/main.c9d5d69f.js.map",
+    "488.3aa3b86d.chunk.js.map": "/Sunil-Portfolio/static/js/488.3aa3b86d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d01d78ff.css",
+    "static/js/main.c9d5d69f.js"
+  ]
+}
